@@ -90,3 +90,31 @@ ul {
   border: none; 
   margin-top: 10px; 
 }
+
+.monkey {
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.information {
+  text-align: center;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1F2937;
+  margin: 20px auto;
+}
+
+.information .container {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  gap: 30px; 
+}
+
+.info-pic {
+  width: 150px;
+}
