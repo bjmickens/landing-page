@@ -145,3 +145,24 @@ ul {
  font-style: normal;
  font-weight: 900;
 }
+
+.call-to-action .container {
+  background-color: #3882f6;
+  width: 800px;
+  height: 100px;
+  padding: 30px;
+  display: flex;
+border-radius: 5px;
+justify-content: space-between;
+margin-top: 20px;
+color:#f9faf8; 
+/* padding: 10px; */
+}
+
+.call-to-action button {
+  background-color:#3882f6;
+  border: 2px solid white;
+  border-radius: 10px;
+  color:#f9faf8;
+  padding: 10px;  
+}
