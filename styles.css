@@ -118,3 +118,30 @@ ul {
 .info-pic {
   width: 150px;
 }
+
+.quote {
+  background-color: #e5e7eb;
+}
+  
+.quote .container {
+  font-size: 36px;
+  color: #1F2937; 
+  height: 200px; 
+  margin-top: 30px;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.quote-text {
+  font-style: italic;
+  font-weight: 100;
+}
+
+.thor {
+  font-size: 20px;
+ align-self: flex-end;
+ font-style: normal;
+ font-weight: 900;
+}
